@@ -1,1 +1,4 @@
-Replace this with your name, and include a header.
+# Charli
+## charldol
+### That's me 
+#### and this is my portfolio
