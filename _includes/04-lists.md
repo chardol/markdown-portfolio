@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* French fries
+* Apples
+  * Pancakes
+  * Ice cream
